@@ -1,92 +1,90 @@
-# ⚡ Haja — AI Retrieval & Platform Engineer | Product-Focused Builder
+# ⚡ Haja — AI Retrieval & Platform Engineer
 
-Building intelligent, reliable, and secure retrieval systems for real-world users (citizens & civil servants). I specialize in transforming raw knowledge into high-precision, scalable conversational and search experiences — while owning performance, deployment, and security lifecycles end-to-end.
+Transforming raw institutional knowledge into accurate, scalable conversational and search experiences. I combine product ownership (citizen & civil servant chat platforms) with deep engineering across retrieval, performance, security, and infrastructure.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nurhajjariahk/">
-    <img src="https://img.shields.io/badge/LinkedIn-nurhajjariahk-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-nurhajjariahk-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:nurhajjariahk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nurhajjariahk%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-nurhajjariahk%40gmail.com-D14836?style=flat-square&logo=gmail" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Retrieval%20Engineering-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Infra-Active--Active%20Deployments-10b981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-ZAP%20Automation-f43f5e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Retrieval%20Engineering-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-ZAP%20Automation-f43f5e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infra-Active--Active%20Deployments-10b981?style=flat-square" />
 </p>
 
 ---
-## 🎯 Snapshot (Value Proposition)
-High-precision hybrid retrieval (graph + vector), production chatbot ownership, performance & security automation, and resilient active-active infrastructure.
+## 🎯 Value Proposition
+High-precision hybrid retrieval (graph + vector + structured filters) • Production chatbot ownership • Performance + security baked into lifecycle • Resilient active-active infrastructure.
 
 ---
-## 🧠 Core Stack & Tools
+## 🧠 Core Technologies
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/TiDB-FF2D55?logo=tidb&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgVector-2E5BFF?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-0B5E8E?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/Locust-5A9148?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-4B8BBE?logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyperledger%20Besu-2F3134?logo=hyperledger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/TiDB-FF2D55?logo=tidb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/pgVector-2E5BFF?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-0B5E8E?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Locust-5A9148?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-4B8BBE?logo=owasp&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Hyperledger_Besu-2F3134?logo=hyperledger&logoColor=white&style=flat-square" />
 </p>
 
 ---
 ## 🚀 Selected Public Projects
-| Area | Repos | Summary |
-| ---- | ----- | ------- |
-| Knowledge Graph & Retrieval | neo4j-document-pipeline | Graph ingestion + retrieval APIs for LLM workflows |
-| Vector Benchmarks | tidb-vector-llm-testbed | Hybrid relevance scoring & indexing experiments |
+| Area | Repo(s) | Summary |
+| ---- | ------- | ------- |
+| Graph & Retrieval | neo4j-document-pipeline | Graph ingestion + retrieval API for LLM workflows |
+| Vector Benchmarks | tidb-vector-llm-testbed | Hybrid scoring, indexing & relevance experiments |
 | Embedding Pipelines | mysql-to-pgvector-embeddings | MySQL → embeddings → pgVector semantic layer |
-| FAQ Knowledge Base | faq-retrieval-system | Structured query layer powering GPT-style retrieval |
-| Performance Testing | playwright-dayang, k6-for-custom-dify | Chatbot UX + API load scenarios & metrics |
-| Security Automation | zap-security-api | OWASP ZAP scan orchestration (baseline/quick/full) |
-| Experimentation | playwright-study, besu-ibft2.0 | Test paradigm exploration & consensus trials |
+| FAQ Base | faq-retrieval-system | Structured query layer powering GPT-style retrieval |
+| Performance | playwright-dayang • k6-for-custom-dify | Chatbot UX & API load test suites |
+| Security Automation | zap-security-api | OWASP ZAP scan API (baseline/quick/full) |
+| Experimentation | playwright-study • besu-ibft2.0 | Testing paradigms & consensus exploration |
 
-> Each project demonstrates a slice of the lifecycle: ingestion → enrichment → retrieval → validation.
+> Each project illustrates a stage of the lifecycle: ingestion → enrichment → retrieval → validation.
 
 ---
-## 🛠 Behind-the-Scenes (Non-Public Contributions)
-- Dayang chatbot (public portal): Product ownership, retrieval refinement, multilingual support considerations.
-- Internal civil servant assistant: Secure doc-grounded Q&A with authoritative source mapping.
-- Load strategy: k6 & Locust distributed runs, ramp profiles, concurrency thresholds.
-- Active-active infra: Alibaba Cloud ECS deployment, Nginx routing, SSL/TLS, resilience tuning.
-- Security lifecycle: Automated ZAP scans integrated as callable service.
+## 🛠 Behind-the-Scenes (Non-Public)
+- Dayang chatbot (citizen portal): Product ownership, retrieval tuning, performance modeling.
+- Civil servant assistant: Document-grounded Q&A with authoritative source controls.
+- Load strategy: Concurrency thresholds, ramp profiles (k6, Locust).
+- Active-active infra: Alibaba Cloud ECS, Nginx routing, SSL/TLS hardening.
+- Security automation: OWASP ZAP scans exposed via API for CI/CD or ad hoc use.
 
 ---
 ## 🧩 Differentiators
-| Vector | Why It Matters |
-| ------ | --------------- |
-| Hybrid Retrieval Engineering | Precision lift over naive vector-only approaches |
-| Product + Technical Ownership | Moves from idea → benchmark → stable feature |
-| Performance & Security Embedded | Prevents late-stage regressions & surprises |
-| Government Domain Context | Designs for trust, accuracy & compliance |
-| Benchmark-Driven Choices | Technology justified with measurable outcomes |
+| Strength | Why It Matters |
+| -------- | --------------- |
+| Hybrid Retrieval Engineering | Precision lift vs pure vector recall |
+| Product + Engineering Fusion | Faster iteration, fewer handoff losses |
+| Embedded Performance & Security | Prevents late-stage surprises |
+| Government Domain Exposure | Designs for trust & high factual accuracy |
+| Benchmark-Driven Choices | Tech decisions backed by measurable outcomes |
+
+---
+## 📈 Illustrative Impact (Insert Real Numbers When Allowed)
+| Area | Example Outcome |
+| ---- | --------------- |
+| Retrieval Accuracy | ~30–40% fewer irrelevant answers (hybrid approach) |
+| Performance Readiness | Concurrency limits defined pre-launch (no collapse) |
+| Security Cycle Time | Hours → minutes via automated ZAP API |
+| Resilience | Active-active reduces failover disruption window |
 
 ---
 ## 🧪 Current Explorations
-- Multi-pass hybrid ranking (graph traversal + semantic scoring)
+- Multi-pass hybrid ranking (graph traversal + semantic rerank)
 - Domain-adaptive embedding strategies
-- Unified UX + load test harness (Playwright + k6 integration)
-- Retrieval explainability overlays for chatbot confidence
-
----
-## 📈 Illustrative Impact Metrics
-| Area | Example Outcome |
-| ---- | --------------- |
-| Retrieval Accuracy | ~30–40% reduction in irrelevant answers (hybrid approach) |
-| Performance Readiness | Concurrency limits discovered pre-launch (no runtime collapse) |
-| Security Cycle Time | Manual scan hours → minutes (API-triggered ZAP) |
-| Resilience | Active-active cut failover disruption to minimal window |
-
-(Replace with real numbers as disclosure allows.)
+- Unified Playwright + k6 harness (UX + load synergy)
+- Retrieval explainability overlays & confidence shaping
 
 ---
 ## 🧠 Architecture (High-Level)
@@ -95,47 +93,37 @@ High-precision hybrid retrieval (graph + vector), production chatbot ownership, 
 
 ```mermaid
 flowchart LR
-    A[Data Sources: MySQL / Docs / FAQs] --> B[Normalize & Clean]
-    B --> C[Embeddings Generation]
-    B --> D[Graph Modeling (Neo4j)]
-    C --> E[(Vector Store: pgVector / TiDB)]
-    D --> F[Graph Relations]
-    E --> G[Hybrid Retrieval Layer]
-    F --> G
-    G --> H[LLM Orchestrator]
-    H --> I[Post-Processing & Ranking]
-    I --> J[Chatbot / API Consumers]
-    subgraph Quality Gates
-      K[Performance Tests]
-      L[ZAP Security Scans]
-    end
-    J --> K
-    J --> L
+  A[Data Sources<br/>MySQL • Docs • FAQs] --> B[Normalize & Clean]
+  B --> C[Embeddings Generation]
+  B --> D[Graph Modeling (Neo4j)]
+  C --> E[(Vector Store<br/>pgVector / TiDB)]
+  D --> F[Graph Relations]
+  E --> G[Hybrid Retrieval Layer]
+  F --> G
+  G --> H[LLM Orchestrator]
+  H --> I[Post-Processing & Ranking]
+  I --> J[Chatbot / API Consumers]
+  subgraph QUALITY_GATES[Quality Gates]
+    K[Performance Tests]
+    L[Security Scans (ZAP)]
+  end
+  J --> K
+  J --> L
 ```
 </details>
 
-> Mermaid diagram renders natively on modern GitHub; if not, expand the details and view raw file.
-
----
-## 🖼 Visual Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Conversational AI Concept" width="480" />
-</p>
-
-> Replace the GIF with a custom demo later (e.g., screen capture of retrieval speed comparison or chatbot refinement loop).
+If Mermaid doesn't render, click “Raw” or use a Mermaid viewer.
 
 ---
 ## 🤝 Role Alignment
-I excel in roles titled: AI Infrastructure Engineer, Retrieval Engineer, Platform Engineer (LLM enablement), Technical Product Owner (Knowledge Systems).
+Ideal matches: AI Infrastructure Engineer • Retrieval Engineer • Platform Engineer (LLM enablement) • Technical Product Owner (Knowledge Systems).
 
-I bring: architecture clarity, benchmark discipline, product empathy, and automation-first implementation.
+Traits brought: architecture clarity • benchmark discipline • product empathy • automation-first mindset.
 
 ---
 ## 📬 Contact
-- LinkedIn: [nurhajjariahk](https://www.linkedin.com/in/nurhajjariahk/)
-- Email: [nurhajjariahk@gmail.com](mailto:nurhajjariahk@gmail.com)
-
-> Open to collaboration, advisory, and roles where intelligent retrieval is strategic.
+- LinkedIn: https://www.linkedin.com/in/nurhajjariahk/
+- Email: nurhajjariahk@gmail.com
 
 ---
 ## 📊 Signals
