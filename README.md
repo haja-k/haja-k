@@ -1,131 +1,152 @@
-# 👋 Hi, I'm Haja
+# ⚡ Haja — AI Retrieval & Platform Engineer | Product-Focused Builder
 
-Product-focused Software Engineer & Technical Lead building end-to-end AI, data, and platform solutions — from ingestion pipelines and vectorized retrieval layers to performance, security, and deployment automation. I combine hands-on engineering with product ownership (chatbot platforms serving government users) to deliver reliable, scalable systems that solve real user problems.
+Building intelligent, reliable, and secure retrieval systems for real-world users (citizens & civil servants). I specialize in transforming raw knowledge into high-precision, scalable conversational and search experiences — while owning performance, deployment, and security lifecycles end-to-end.
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nurhajjariahk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-nurhajjariahk-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nurhajjariahk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-nurhajjariahk%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-Retrieval%20Engineering-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infra-Active--Active%20Deployments-10b981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-ZAP%20Automation-f43f5e?style=for-the-badge" />
 </p>
 
 ---
-## 🔎 What I Do
-- **AI + Retrieval Engineering**: Build vectorization, knowledge graph, and hybrid search pipelines powering LLM workflows (Neo4j, TiDB vector search, pgVector).
-- **Chatbot Product Ownership**: Lead development for production chatbot services serving Sarawak citizens and civil servants (multilingual context-aware Q&A).
-- **Performance Engineering**: Design & execute load/performance tests using k6, Locust, Playwright (synthetic interaction + concurrency), plus custom harnesses.
-- **Security Automation**: Provide on-demand OWASP ZAP scanning via API for CI/CD integration to enforce repeatable security posture.
-- **DevOps & Infrastructure**: Deploy and operate active-active services on Alibaba Cloud ECS with engineered Nginx layer (failover, routing, SSL hardening); collaborate with data centre teams.
-- **Data-to-LLM Enablement**: Convert relational (MySQL) + structured knowledge into embeddings + graph representations for semantic retrieval.
-- **Quality & Reliability**: Integrate automated testing and benchmarking flows; design observability-minded ingestion & indexing services.
+## 🎯 Snapshot (Value Proposition)
+High-precision hybrid retrieval (graph + vector), production chatbot ownership, performance & security automation, and resilient active-active infrastructure.
 
 ---
-## 🧠 Core Technical Stack
-| Domain | Tools / Technologies |
-| ------ | -------------------- |
-| LLM / Retrieval | LangChain, Neo4j, pgVector, TiDB Vector, Embeddings (OpenAI / local) |
-| Data & Pipelines | Python (FastAPI/Flask), ETL scripting, MySQL, Graph Modeling |
-| Performance & QA | k6, Locust, Playwright, custom benchmarking harnesses |
-| Security | OWASP ZAP (API-driven scanning), Report Generation |
-| DevOps | Docker, Nginx (active-active setups), Alibaba Cloud ECS |
-| Automation & Scripting | Python, Shell, TypeScript, JavaScript |
-| Blockchain Experimentation | Hyperledger Besu IBFT 2.0, Solidity basics |
-| Testing | Playwright (UI flows), API test scripting |
-| Other | Vector DB evaluation, Hybrid search scoring, API design |
+## 🧠 Core Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/TiDB-FF2D55?logo=tidb&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgVector-2E5BFF?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0B5E8E?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locust-5A9148?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-4B8BBE?logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyperledger%20Besu-2F3134?logo=hyperledger&logoColor=white" />
+</p>
 
 ---
-## 🚀 Highlighted Public Projects
-### 1. Knowledge & Retrieval Systems
-- **neo4j-document-pipeline**: End-to-end ingestion + indexing into a Neo4j knowledge graph with retrieval-ready APIs. Designed for workflow integration into LLM orchestration layers.
-- **tidb-vector-llm-testbed**: Experimental benchmarking harness for TiDB’s vector search: indexing flows, hybrid query relevance scoring, evaluation scripts.
-- **mysql-to-pgvector-embeddings**: Pipeline to extract records from MySQL → generate embeddings → store in pgVector for semantic retrieval.
+## 🚀 Selected Public Projects
+| Area | Repos | Summary |
+| ---- | ----- | ------- |
+| Knowledge Graph & Retrieval | neo4j-document-pipeline | Graph ingestion + retrieval APIs for LLM workflows |
+| Vector Benchmarks | tidb-vector-llm-testbed | Hybrid relevance scoring & indexing experiments |
+| Embedding Pipelines | mysql-to-pgvector-embeddings | MySQL → embeddings → pgVector semantic layer |
+| FAQ Knowledge Base | faq-retrieval-system | Structured query layer powering GPT-style retrieval |
+| Performance Testing | playwright-dayang, k6-for-custom-dify | Chatbot UX + API load scenarios & metrics |
+| Security Automation | zap-security-api | OWASP ZAP scan orchestration (baseline/quick/full) |
+| Experimentation | playwright-study, besu-ibft2.0 | Test paradigm exploration & consensus trials |
 
-### 2. Performance & Reliability
-- **playwright-dayang**: Automated interaction/performance testing for a production LLM chatbot (Dayang) using Playwright.
-- **k6-for-custom-dify**: Load testing suite for a self-hosted and customized Dify API deployment: scenario scripting + metrics foundation.
-
-### 3. Security Automation
-- **zap-security-api**: Flask + Docker API wrapping OWASP ZAP scan modes (baseline/quick/full) for centralized, repeatable AppSec testing; auto report generation.
-
-### 4. Data / FAQ Knowledge Base
-- **faq-retrieval-system**: TypeScript-driven query layer serving as a foundational knowledge base for GPT-style retrieval.
-
-### 5. Experimentation & Learning
-- **playwright-study** – Structured exploration of Microsoft Playwright testing paradigms.
-- **besu-ibft2.0** – Hyperledger Besu IBFT 2.0 consensus experimentation; blockchain environment scripting.
+> Each project demonstrates a slice of the lifecycle: ingestion → enrichment → retrieval → validation.
 
 ---
-## 🛠 Behind-the-Scenes (Work Contributions)
-Although not all source code is public, here are production-impact areas I lead or contribute to:
-- Dayang Chatbot serving Sarawak users (public portal): Product ownership, performance tuning, retrieval logic refinement.
-- Internal civil servant chatbot: Secure document-centric Q&A with domain filtering and authoritative source mapping.
-- Performance test architecture: Locust & k6 distributed runs, workload modeling, concurrency threshold analysis.
-- Active-active infrastructure: Alibaba Cloud ECS deployments, Nginx reverse proxy config (routing, SSL/TLS, rate handling).
-- Cross-functional collaboration: Work with data centre teams for network, scaling, and operational readiness.
-
----
-## 📊 Engineering Focus Areas
-- Retrieval quality: Hybrid vector + structured filtering for higher precision.
-- Observability mindset: Designing pipelines that surface latency and degradation signs early.
-- Automation over repetition: Turning manual security/performance tasks into APIs & scripts.
-- Product empathy: Translating user intent (citizen or civil servant) into robust conversational flows.
+## 🛠 Behind-the-Scenes (Non-Public Contributions)
+- Dayang chatbot (public portal): Product ownership, retrieval refinement, multilingual support considerations.
+- Internal civil servant assistant: Secure doc-grounded Q&A with authoritative source mapping.
+- Load strategy: k6 & Locust distributed runs, ramp profiles, concurrency thresholds.
+- Active-active infra: Alibaba Cloud ECS deployment, Nginx routing, SSL/TLS, resilience tuning.
+- Security lifecycle: Automated ZAP scans integrated as callable service.
 
 ---
 ## 🧩 Differentiators
-- Full spectrum: From raw data extraction → embedding/graph modeling → retrieval API → performance & security validation.
-- Product + Engineering fusion: Ownership mindset (roadmaps, iteration loops) with hands-on implementation.
-- Pragmatic experimentation: Use testbeds (like TiDB vector) to justify technology choices with measurable benchmarks.
-- Security & reliability intertwined: Performance tests and ZAP scans baked into lifecycle—not afterthoughts.
-
----
-## 📈 Sample Impact Metrics (Illustrative)
-| Area | Example Outcome |
-| ---- | --------------- |
-| Retrieval Optimization | Cut irrelevant responses by >30% with graph + embeddings hybrid |
-| Performance Testing | Defined concurrency thresholds; prevented overload events pre-launch |
-| Security Automation | Reduced manual scan time from hours to minutes via API-triggered workflows |
-| Infrastructure Resilience | Implemented active-active failover with minimal switchover downtime |
+| Vector | Why It Matters |
+| ------ | --------------- |
+| Hybrid Retrieval Engineering | Precision lift over naive vector-only approaches |
+| Product + Technical Ownership | Moves from idea → benchmark → stable feature |
+| Performance & Security Embedded | Prevents late-stage regressions & surprises |
+| Government Domain Context | Designs for trust, accuracy & compliance |
+| Benchmark-Driven Choices | Technology justified with measurable outcomes |
 
 ---
 ## 🧪 Current Explorations
-- Structured + vector fusion rankers
-- Domain adaptive embedding strategies
-- Neo4j schema evolution for conversational context memory
-- Playwright + k6 combined scenario modeling (UX + load)
+- Multi-pass hybrid ranking (graph traversal + semantic scoring)
+- Domain-adaptive embedding strategies
+- Unified UX + load test harness (Playwright + k6 integration)
+- Retrieval explainability overlays for chatbot confidence
 
 ---
-## 🤝 Collaboration & What I Look For
-I enjoy working on:
-- Complex retrieval systems that need explainability
-- Performance-sensitive AI integrations
-- Security and reliability automation in ML/data-heavy stacks
+## 📈 Illustrative Impact Metrics
+| Area | Example Outcome |
+| ---- | --------------- |
+| Retrieval Accuracy | ~30–40% reduction in irrelevant answers (hybrid approach) |
+| Performance Readiness | Concurrency limits discovered pre-launch (no runtime collapse) |
+| Security Cycle Time | Manual scan hours → minutes (API-triggered ZAP) |
+| Resilience | Active-active cut failover disruption to minimal window |
 
-Open to discussions about roles in:
-- AI Infrastructure / Platform Engineering
-- Data & Retrieval Engineering
-- Technical Product Ownership (AI/Knowledge Systems)
+(Replace with real numbers as disclosure allows.)
 
 ---
-## 📬 Get in Touch
+## 🧠 Architecture (High-Level)
+<details>
+<summary>Show Retrieval Flow Diagram</summary>
+
+```mermaid
+flowchart LR
+    A[Data Sources: MySQL / Docs / FAQs] --> B[Normalize & Clean]
+    B --> C[Embeddings Generation]
+    B --> D[Graph Modeling (Neo4j)]
+    C --> E[(Vector Store: pgVector / TiDB)]
+    D --> F[Graph Relations]
+    E --> G[Hybrid Retrieval Layer]
+    F --> G
+    G --> H[LLM Orchestrator]
+    H --> I[Post-Processing & Ranking]
+    I --> J[Chatbot / API Consumers]
+    subgraph Quality Gates
+      K[Performance Tests]
+      L[ZAP Security Scans]
+    end
+    J --> K
+    J --> L
+```
+</details>
+
+> Mermaid diagram renders natively on modern GitHub; if not, expand the details and view raw file.
+
+---
+## 🖼 Visual Preview
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Conversational AI Concept" width="480" />
+</p>
+
+> Replace the GIF with a custom demo later (e.g., screen capture of retrieval speed comparison or chatbot refinement loop).
+
+---
+## 🤝 Role Alignment
+I excel in roles titled: AI Infrastructure Engineer, Retrieval Engineer, Platform Engineer (LLM enablement), Technical Product Owner (Knowledge Systems).
+
+I bring: architecture clarity, benchmark discipline, product empathy, and automation-first implementation.
+
+---
+## 📬 Contact
 - LinkedIn: [nurhajjariahk](https://www.linkedin.com/in/nurhajjariahk/)
 - Email: [nurhajjariahk@gmail.com](mailto:nurhajjariahk@gmail.com)
 
-If my work resonates, feel free to reach out directly. I’m always excited to talk about building reliable, intelligent, and performant systems.
+> Open to collaboration, advisory, and roles where intelligent retrieval is strategic.
 
 ---
-## 🗂 Repository Overview (Languages)
-| Primary Languages | Focus |
-| ----------------- | ----- |
-| Python | Pipelines, APIs, embeddings, security scanning |
-| TypeScript / JavaScript | Testing frameworks, retrieval services, automation |
-| Shell / Docker | Environment orchestration & deployment |
-| Neo4j / MySQL / TiDB / pgVector | Knowledge graphs & vector storage |
-| Solidity / Besu | Consensus and blockchain experimentation |
+## 📊 Signals
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=haja-k&show_icons=true&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haja-k&layout=compact&theme=tokyonight" height="140" />
+  <img src="https://komarev.com/ghpvc/?username=haja-k&style=flat-square&color=blue" height="28" />
+</p>
 
 ---
 ## 🔄 Philosophy
-> Build systems that are observable, evolvable, and grounded in measurable user impact.
+> Build systems that are observable, evolvable, and grounded in measurable user impact — not novelty.
 
 Thanks for visiting — let’s build something meaningful.
