@@ -41,6 +41,7 @@ These repos represent the kinds of systems I build (pipeline → retrieval → v
 
 | Area | Repository | What it shows |
 |---|---|---|
+| 🎬 Local multi-agent AI app | **agentic-video-analyst** | offline inference + multi-agent orchestration + desktop app engineering |
 | 🕸️ Graph ingestion + retrieval | **neo4j-document-pipeline** | graph modeling + retrieval API patterns for LLM workflows |
 | 📈 Vector + hybrid experiments | **tidb-vector-llm-testbed** | relevance/scoring experiments, indexing tradeoffs |
 | 🧬 Embedding pipeline | **mysql-to-pgvector-embeddings** | extraction → embeddings → pgVector semantic layer |
@@ -58,6 +59,3 @@ These repos represent the kinds of systems I build (pipeline → retrieval → v
 
 ---
 
-## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/nurhajjariahk/  
-- Email: nurhajjariahk@gmail.com
