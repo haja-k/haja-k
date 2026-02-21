@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=230&section=header&text=Haja&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Cloud%20AI%20Infrastructure%20Engineer&descSize=16&descAlignY=60&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0F,100:0F7C7A&height=230&section=header&text=HAJA&fontSize=60&fontColor=F5E6C8&fontAlignY=35&desc=Cloud%20AI%20Infrastructure%20Engineer&descSize=16&descAlignY=60&animation=fadeIn&stroke=D4AF37&strokeWidth=2" alt="Header" width="100%" />
 
 <h1>Backend-First</h1>
 
 
 <p>
 	<a href="https://www.linkedin.com/in/nurhajjariahk/">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nurhajjariahk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nurhajjariahk-0F7C7A?style=for-the-badge&logo=linkedin&logoColor=F5E6C8&labelColor=0B0D0F" />
 	</a>
 	<a href="mailto:nurhajjariahk@gmail.com">
-		<img alt="Email" src="https://img.shields.io/badge/Email-nurhajjariahk%40gmail.com-2a2a2a?style=for-the-badge&logo=gmail&logoColor=white" />
+		<img alt="Email" src="https://img.shields.io/badge/Email-nurhajjariahk%40gmail.com-7A1E2C?style=for-the-badge&logo=gmail&logoColor=F5E6C8&labelColor=0B0D0F" />
 	</a>
 </p>
 
 <p>
-	<img alt="Focus" src="https://img.shields.io/badge/Focus-Retrieval%20%2F%20RAG-0d1117?style=flat" />
-	<img alt="Focus" src="https://img.shields.io/badge/Focus-Evaluation%20%26%20Quality%20Gates-0d1117?style=flat" />
-	<img alt="Focus" src="https://img.shields.io/badge/Focus-Performance%20%26%20Security-0d1117?style=flat" />
-	<img alt="Focus" src="https://img.shields.io/badge/Focus-Reliable%20Cloud%20Deployments-0d1117?style=flat" />
+	<img alt="Focus" src="https://img.shields.io/badge/Focus-Retrieval%20%2F%20RAG-0F7C7A?style=for-the-badge&labelColor=D4AF37" />
+	<img alt="Focus" src="https://img.shields.io/badge/Focus-Evaluation%20%26%20Quality%20Gates-7A1E2C?style=for-the-badge&labelColor=D4AF37" />
+	<img alt="Focus" src="https://img.shields.io/badge/Focus-Performance%20%26%20Security-0B0D0F?style=for-the-badge&labelColor=D4AF37" />
+	<img alt="Focus" src="https://img.shields.io/badge/Focus-Reliable%20Cloud%20Deployments-0F7C7A?style=for-the-badge&labelColor=D4AF37" />
 </p>
 
 </div>
